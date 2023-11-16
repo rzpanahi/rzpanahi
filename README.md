@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Mental Health Center website.<br>🤝 I’m looking for help with the Front-end part of my projects<br>🌱 I’m learning data structures and algorithms and C#.<br>⚡️ Fun fact is that I havent been able to make money out of programming after 3 years of working
+🔭 I'm learning back-end development with django.<br>🤝 I’m looking for help with the Front-end part of my projects<br>🌱 I’m learning data structures and algorithms.<br>⚡️ Fun fact is that I havent been able to make money out of programming after 3 years of working
 
 
 ## 🌐 Socials:
