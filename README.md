@@ -31,26 +31,26 @@ print()
 
 ![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=rzpanahi&show_icons=true&theme=transparent)
 
-<h2 align="center">Skills:</h3>
-<h4 align="center">Languages and Frameworks:</h4> 
+<h2 align="left">Skills:</h3>
+Languages and Frameworks: 
 <br>
-<p align="center">
+<p align="left">
   <a href="">
     <img src="https://skillicons.dev/icons?i=py,django,cpp" />
   </a>
 </p>
 <br>
-<h4 align="center">Software and Tools:</h4> 
+Software and Tools: 
 <br>
-<p align="center">
+<p align="left">
   <a href="">
     <img src="https://skillicons.dev/icons?i=postman,neovim,vscode,git,docker" />
   </a>
 </p>
 <br>
-<h4 align="center">Databases:<h4/>
+Databases:
 <br>
-<p align="center">
+<p align="left">
   <a href="">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
   </a>
