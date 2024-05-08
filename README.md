@@ -24,12 +24,6 @@ for char in sentence:
 print()
 ```
 
-## Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rezapanahi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reza.pnhy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reza-panahi-a156181a5) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rzpanahi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCMnDfDlsIsCs4gq0nAOn_2A)
-
-<br>
-
-![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=rzpanahi&show_icons=true&theme=transparent)
 
 <h2 align="left">Skills:</h3>
 Languages and Frameworks: 
